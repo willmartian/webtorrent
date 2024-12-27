@@ -6,6 +6,8 @@
     ],
     "compilerOptions": {
         "allowJs": true,
+        "target": "ES2020",
+        "module": "NodeNext",
         "esModuleInterop": true,
         "declaration": true,
         "emitDeclarationOnly": true,
